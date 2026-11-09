@@ -1,0 +1,18 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:860px;margin:0 auto;padding:0 16px 40px;line-height:1.5;color:#1d1f23;background:#fff}
+header{padding:16px 0 8px;border-bottom:1px solid #ccd}
+h1{margin:0;font-size:1.6rem}.tag{margin:.2rem 0 .8rem;color:#555}
+nav a{display:inline-block;margin:0 6px 6px 0;padding:4px 10px;border:1px solid #99a;border-radius:4px;text-decoration:none;color:#124}
+nav a.on{background:#124;color:#fff}
+.badge{display:inline-block;padding:1px 8px;border-radius:10px;background:#eef;font-size:.85rem}
+.q{border:1px solid #ccd;border-radius:6px;padding:10px 14px;margin:12px 0}
+.q.ok{border-color:#2a7;background:#f3fbf6}
+.q p{margin:.3rem 0}
+input[type=text]{width:60%;min-width:200px;padding:5px;font-size:1rem}
+button{padding:4px 10px;margin:4px 4px 0 0;cursor:pointer}
+.fb.bad{color:#a22}.fb.good{color:#165}.hint{background:#fff8e1;padding:4px 8px;margin:4px 0;border-radius:4px}
+code{background:#f1f1f5;padding:0 4px;border-radius:3px}
+.opt{display:block;margin:2px 0}
+.score{font-weight:600}
+footer{margin-top:30px;color:#666;font-size:.85rem}
+details{background:#f6f8fc;border:1px solid #ccd;border-radius:6px;padding:6px 14px;margin:12px 0}summary{cursor:pointer;font-weight:600}
+.steps li{margin:10px 0}.steps .expect{color:#165;margin-top:2px}
