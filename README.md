@@ -1,8 +1,8 @@
 # Hunting What You Can't Read
 
 CTF-style labs for detecting **encrypted and covert network traffic** using only metadata
-(timing, packet size, entropy, volume, structure). Built for an undergraduate network security
-course (CprE 4300/5300). All traffic is synthetic.
+(timing, packet size, entropy, volume, structure). Built for an undergraduate/graduate network security
+course (CprE 5300). All traffic is synthetic.
 
 | Lab | Threat | TCP/IP layer | What students learn to spot |
 |---|---|---|---|
